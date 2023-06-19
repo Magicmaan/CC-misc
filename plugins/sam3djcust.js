@@ -50,10 +50,11 @@
             targetContext = targetCanvas.getContext('2d');
 
             ax = targetRectangle.ax;
-            ay = targetRectangle.ax;
+            ay = targetRectangle.ay;
 
-
-            buffer = targetContext.getImageData(targetRectangle.ax, targetRectangle.ax, targetRectangle.ax, targetRectangle.ax);
+            console.log(ax);
+            console.log(ay);
+            buffer = targetContext.getImageData(targetRectangle.ax, targetRectangle.ay, 1, 1);
             
             var hex = [
                 Math.round(buffer.data[0]).toString(16),
