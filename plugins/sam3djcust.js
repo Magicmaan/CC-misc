@@ -32,7 +32,7 @@
      */
     
     function getSingleTexture(cube) {
-        let faces = 0;
+        let faces = 1;
         let missing = false;
         let texture = SC_TEXTURE_BLANK;
         
@@ -46,22 +46,23 @@
             //console.log(targetRectangle.ax);
             
 
-            const targetCanvas = Painter.getCanvas(tmp);
-            const targetContext = targetCanvas.getContext('2d');
+            targetCanvas = Painter.getCanvas(tmp);
+            targetContext = targetCanvas.getContext('2d');
 
-            ax = tmp.width;
-            ay = tmp.height;
-            w = 1;
-            h = 1;
+            ax = targetRectangle.ax;
+            ay = targetRectangle.ax;
 
 
-            const buffer = targetContext.getImageData(targetRectangle.ax, targetRectangle.ax, 1, 1);
+            buffer = targetContext.getImageData(targetRectangle.ax, targetRectangle.ax, targetRectangle.ax, targetRectangle.ax);
             
             var hex = [
                 Math.round(buffer.data[0]).toString(16),
                 Math.round(buffer.data[1]).toString(16),
                 Math.round(buffer.data[2]).toString(16)
             ];
+
+            console.log(buffer.data[0])
+            console.log(cube.name);
             console.log(hex);
 
             if (!tmp) {
