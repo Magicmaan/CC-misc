@@ -1,0 +1,82 @@
+{
+	"label": "front-lower",
+	"tooltip": "Made with Blockbench By @MagicMrmann",
+	"isButton": false,
+	"collideWhenOn": true,
+	"collideWhenOff": true,
+	"lightLevel": 7,
+	"redstoneLevel": 0,
+	"shapesOff": [
+		{
+			"bounds": [3, 3, 7, 13, 7, 14],
+			"texture": "minecraft:block/stone",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [1, 7, 5, 15, 11, 7],
+			"texture": "minecraft:block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [1, 11, 6, 15, 13, 11],
+			"texture": "minecraft:block/verdant_froglight",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [3, 13, 10, 13, 16, 16],
+			"texture": "minecraft:block/verdant_froglight",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 14, 12, 5, 16, 16],
+			"texture": "minecraft:block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 11, 8, 3, 15, 14],
+			"texture": "minecraft:block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 7, 6, 1, 13, 12],
+			"texture": "minecraft:block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 4, 8, 3, 8, 14],
+			"texture": "minecraft:block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 0, 11, 5, 4, 16],
+			"texture": "minecraft:block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [11, 14, 12, 16, 16, 16],
+			"texture": "minecraft:block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [13, 11, 8, 16, 15, 14],
+			"texture": "minecraft:block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [15, 7, 6, 16, 13, 12],
+			"texture": "minecraft:block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [13, 4, 8, 16, 8, 14],
+			"texture": "minecraft:block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [11, 0, 11, 16, 4, 16],
+			"texture": "minecraft:block/deepslate",
+			"tint": "FFFFFF"
+		}
+	],
+	"shapesOn": []
+}

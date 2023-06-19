@@ -1,0 +1,27 @@
+{
+	"label": "centre-top",
+	"tooltip": "Made with Blockbench By @MagicMrmann",
+	"isButton": false,
+	"collideWhenOn": true,
+	"collideWhenOff": true,
+	"lightLevel": 0,
+	"redstoneLevel": 0,
+	"shapesOff": [
+		{
+			"bounds": [0, 5, 0, 16, 7, 16],
+			"texture": "minecraft:block/blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 7, 0, 16, 9, 16],
+			"texture": "minecraft:block/blue_concrete_powder",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [6, 9, 6, 10, 14, 10],
+			"texture": "minecraft:block/sea_lantern",
+			"tint": "FFFFFF"
+		}
+	],
+	"shapesOn": []
+}

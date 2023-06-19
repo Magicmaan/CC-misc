@@ -1,0 +1,17 @@
+{
+	"label": "model",
+	"tooltip": "Made with Blockbench By @MagicMrmann",
+	"isButton": false,
+	"collideWhenOn": true,
+	"collideWhenOff": true,
+	"lightLevel": 15,
+	"redstoneLevel": 0,
+	"shapesOff": [
+		{
+			"bounds": [0, 8, 0, 16, 16, 16],
+			"texture": "minecraft:block/cobblestone",
+			"tint": "FFFFFF"
+		}
+	],
+	"shapesOn": []
+}

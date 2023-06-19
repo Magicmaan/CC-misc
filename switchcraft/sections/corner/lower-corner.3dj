@@ -1,0 +1,77 @@
+{
+	"label": "corner-lower",
+	"tooltip": "Made with Blockbench By @MagicMrmann",
+	"isButton": false,
+	"collideWhenOn": true,
+	"collideWhenOff": true,
+	"lightLevel": 0,
+	"redstoneLevel": 0,
+	"shapesOff": [
+		{
+			"bounds": [0, 11, 8, 2, 15, 14],
+			"texture": "minecraft:block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 7, 6, 4, 13, 12],
+			"texture": "minecraft:block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 4, 8, 3, 8, 14],
+			"texture": "minecraft:block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 0, 11, 1, 4, 16],
+			"texture": "minecraft:block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 13, 13, 5, 16, 16],
+			"texture": "minecraft:block/verdant_froglight_top",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [2, 13, 12, 4, 16, 13],
+			"texture": "minecraft:block/verdant_froglight_top",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [5, 11, 13, 8, 13, 16],
+			"texture": "minecraft:block/verdant_froglight_top",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [4, 11, 10, 6, 13, 13],
+			"texture": "minecraft:block/verdant_froglight_top",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [8, 7, 13, 10, 11, 16],
+			"texture": "minecraft:block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [6, 7, 10, 9, 11, 13],
+			"texture": "minecraft:block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [4, 7, 8, 7, 11, 10],
+			"texture": "minecraft:block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [1, 3, 9, 6, 7, 12],
+			"texture": "minecraft:block/stone",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [1, 3, 12, 8, 7, 16],
+			"texture": "minecraft:block/stone",
+			"tint": "FFFFFF"
+		}
+	],
+	"shapesOn": []
+}

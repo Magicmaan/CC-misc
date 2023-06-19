@@ -1,0 +1,52 @@
+{
+	"label": "doors-lower",
+	"tooltip": "Made with Blockbench By @MagicMrmann",
+	"isButton": false,
+	"collideWhenOn": true,
+	"collideWhenOff": true,
+	"lightLevel": 0,
+	"redstoneLevel": 0,
+	"shapesOff": [
+		{
+			"bounds": [7, 2, 13, 9, 16, 14],
+			"texture": "minecraft:block/blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [10, 3, 13, 15, 9, 14],
+			"texture": "minecraft:block/tube_coral_block",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [10, 10, 13, 15, 16, 14],
+			"texture": "minecraft:block/tube_coral_block",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [1, 10, 13, 6, 16, 14],
+			"texture": "minecraft:block/tube_coral_block",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [1, 3, 13, 6, 9, 14],
+			"texture": "minecraft:block/tube_coral_block",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 1, 14, 7, 16, 15],
+			"texture": "minecraft:block/blue_concrete_powder",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [9, 1, 14, 16, 16, 15],
+			"texture": "minecraft:block/blue_concrete_powder",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 0, 12, 16, 2, 16],
+			"texture": "minecraft:block/blue_concrete",
+			"tint": "FFFFFF"
+		}
+	],
+	"shapesOn": []
+}

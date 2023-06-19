@@ -1,0 +1,42 @@
+{
+	"label": "centre2",
+	"tooltip": "Made with Blockbench By @MagicMrmann",
+	"isButton": false,
+	"collideWhenOn": true,
+	"collideWhenOff": true,
+	"lightLevel": 0,
+	"redstoneLevel": 0,
+	"shapesOff": [
+		{
+			"bounds": [6, 0, 2, 10, 16, 6],
+			"texture": "minecraft:block/verdant_froglight_top",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [6, 0, 10, 10, 16, 14],
+			"texture": "minecraft:block/verdant_froglight_top",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [11, 0, 9, 14, 16, 12],
+			"texture": "minecraft:block/verdant_froglight_top",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [11, 0, 4, 14, 16, 7],
+			"texture": "minecraft:block/verdant_froglight_top",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [2, 0, 9, 5, 16, 12],
+			"texture": "minecraft:block/verdant_froglight_top",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [2, 0, 4, 5, 16, 7],
+			"texture": "minecraft:block/verdant_froglight_top",
+			"tint": "FFFFFF"
+		}
+	],
+	"shapesOn": []
+}

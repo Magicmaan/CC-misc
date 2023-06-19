@@ -1,0 +1,32 @@
+{
+	"label": "front-lower",
+	"tooltip": "Made with Blockbench By @MagicMrmann",
+	"isButton": false,
+	"collideWhenOn": true,
+	"collideWhenOff": true,
+	"lightLevel": 7,
+	"redstoneLevel": 0,
+	"shapesOff": [
+		{
+			"bounds": [0, 0, 12, 5, 2, 16],
+			"texture": ":block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [3, 0, 10, 13, 1, 16],
+			"texture": ":block/froglight",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [11, 0, 12, 16, 2, 16],
+			"texture": ":block/deepslate",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 5, 15, 16, 7, 16],
+			"texture": ":block/final",
+			"tint": "FFFFFF"
+		}
+	],
+	"shapesOn": []
+}

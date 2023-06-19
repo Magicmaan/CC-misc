@@ -1,0 +1,82 @@
+{
+	"label": "HEXTESTING",
+	"tooltip": "Made with Blockbench By @MagicMrmann",
+	"isButton": false,
+	"collideWhenOn": true,
+	"collideWhenOff": true,
+	"lightLevel": 0,
+	"redstoneLevel": 0,
+	"shapesOff": [
+		{
+			"bounds": [0, 0, 13, 16, 1, 14],
+			"texture": "minecraft:block/white_concrete",
+			"tint": "274685"
+		},
+		{
+			"bounds": [0, 1, 13, 16, 2, 14],
+			"texture": "minecraft:block/white_concrete",
+			"tint": "223771"
+		},
+		{
+			"bounds": [0, 2, 12, 1, 6, 14],
+			"texture": "minecraft:block/white_concrete",
+			"tint": "223771"
+		},
+		{
+			"bounds": [1, 2, 12, 4, 3, 13],
+			"texture": "minecraft:block/white_concrete",
+			"tint": "223771"
+		},
+		{
+			"bounds": [1, 3, 12, 15, 5, 13],
+			"texture": "minecraft:block/white_concrete",
+			"tint": "252531"
+		},
+		{
+			"bounds": [1, 5, 12, 4, 6, 14],
+			"texture": "minecraft:block/white_concrete",
+			"tint": "223771"
+		},
+		{
+			"bounds": [4, 5, 12, 12, 6, 14],
+			"texture": "minecraft:block/white_concrete",
+			"tint": "2e528e"
+		},
+		{
+			"bounds": [4, 2, 12, 12, 3, 13],
+			"texture": "minecraft:block/white_concrete",
+			"tint": "2e528e"
+		},
+		{
+			"bounds": [12, 2, 12, 15, 3, 13],
+			"texture": "minecraft:block/white_concrete",
+			"tint": "223771"
+		},
+		{
+			"bounds": [15, 2, 12, 16, 6, 14],
+			"texture": "minecraft:block/white_concrete",
+			"tint": "223771"
+		},
+		{
+			"bounds": [12, 5, 12, 15, 6, 14],
+			"texture": "minecraft:block/white_concrete",
+			"tint": "223771"
+		},
+		{
+			"bounds": [0, 6, 14, 16, 7, 15],
+			"texture": "minecraft:block/white_concrete",
+			"tint": "1c3c80"
+		},
+		{
+			"bounds": [0, 7, 14, 16, 8, 16],
+			"texture": "minecraft:block/white_concrete",
+			"tint": "23458c"
+		},
+		{
+			"bounds": [0, 8, 14, 16, 9, 16],
+			"texture": "minecraft:block/white_concrete",
+			"tint": "2e528e"
+		}
+	],
+	"shapesOn": []
+}

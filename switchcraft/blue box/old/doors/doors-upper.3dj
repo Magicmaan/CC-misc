@@ -1,0 +1,92 @@
+{
+	"label": "doors-upper",
+	"tooltip": "Made with Blockbench By @MagicMrmann",
+	"isButton": false,
+	"collideWhenOn": true,
+	"collideWhenOff": true,
+	"lightLevel": 0,
+	"redstoneLevel": 0,
+	"shapesOff": [
+		{
+			"bounds": [0, 15, 13, 16, 16, 14],
+			"texture": "minecraft:block/blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [7, 0, 13, 9, 15, 14],
+			"texture": "minecraft:block/blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [1, 1, 13, 6, 7, 14],
+			"texture": "minecraft:block/tube_coral_block",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [10, 1, 13, 15, 7, 14],
+			"texture": "minecraft:block/tube_coral_block",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [11, 9, 13, 14, 13, 14],
+			"texture": "minecraft:block/sea_lantern",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [10, 8, 13, 11, 14, 14],
+			"texture": "minecraft:block/tube_coral_block",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [11, 13, 13, 14, 14, 14],
+			"texture": "minecraft:block/tube_coral_block",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [14, 8, 13, 15, 14, 14],
+			"texture": "minecraft:block/tube_coral_block",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [11, 8, 13, 14, 9, 14],
+			"texture": "minecraft:block/tube_coral_block",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [2, 9, 13, 5, 13, 14],
+			"texture": "minecraft:block/sea_lantern",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [1, 8, 13, 2, 14, 14],
+			"texture": "minecraft:block/tube_coral_block",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [2, 13, 13, 5, 14, 14],
+			"texture": "minecraft:block/tube_coral_block",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [5, 8, 13, 6, 14, 14],
+			"texture": "minecraft:block/tube_coral_block",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [2, 8, 13, 5, 9, 14],
+			"texture": "minecraft:block/tube_coral_block",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 0, 14, 7, 16, 15],
+			"texture": "minecraft:block/blue_concrete_powder",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [9, 0, 14, 16, 16, 15],
+			"texture": "minecraft:block/blue_concrete_powder",
+			"tint": "FFFFFF"
+		}
+	],
+	"shapesOn": []
+}

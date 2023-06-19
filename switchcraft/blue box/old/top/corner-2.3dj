@@ -1,0 +1,62 @@
+{
+	"label": "corner-2",
+	"tooltip": "Made with Blockbench By @MagicMrmann",
+	"isButton": false,
+	"collideWhenOn": true,
+	"collideWhenOff": true,
+	"lightLevel": 0,
+	"redstoneLevel": 0,
+	"shapesOff": [
+		{
+			"bounds": [13, 4, 13, 15, 14, 15],
+			"texture": "minecraft:block/tube_coral_block",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [13, 15, 13, 15, 16, 15],
+			"texture": "minecraft:block/tube_coral_block",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [13, 15, 15, 15, 16, 16],
+			"texture": "minecraft:block/blue_wool",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [15, 15, 13, 16, 16, 16],
+			"texture": "minecraft:block/blue_wool",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [13, 14, 13, 16, 15, 16],
+			"texture": "minecraft:block/blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [15, 2, 13, 16, 14, 16],
+			"texture": "minecraft:block/blue_wool",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [13, 0, 13, 15, 4, 15],
+			"texture": "minecraft:block/blue_concrete_powder",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [15, 0, 13, 16, 2, 16],
+			"texture": "minecraft:block/blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [13, 0, 15, 15, 2, 16],
+			"texture": "minecraft:block/blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [13, 2, 15, 15, 14, 16],
+			"texture": "minecraft:block/blue_wool",
+			"tint": "FFFFFF"
+		}
+	],
+	"shapesOn": []
+}
