@@ -62,8 +62,25 @@
                 Math.round(buffer.data[2]).toString(16)
             ];
 
-            console.log(buffer.data[0])
+            
             console.log(cube.name);
+            if (hex[0].length == 1) {
+                value = "0"
+                temp = value.concat("",hex[0]);
+                hex[0] = temp
+            }
+            if (hex[1].length == 1) {
+                value = "0"
+                temp = value.concat("",hex[1]);
+                hex[1] = temp
+            }
+            if (hex[2].length == 1) {
+                value = "0"
+                temp = value.concat("",hex[2]);
+                hex[2] = temp
+            }
+
+            
             console.log(hex);
 
             if (!tmp) {
